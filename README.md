@@ -8,9 +8,9 @@
   
 </div>
 
-<details align="center"> 
+
  
-  <summary>💻 GitHub Profile Stats</summary>
+
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
@@ -25,6 +25,7 @@
           </a>
        </p>
      <br>
-  </div> 
+  </div> <div  align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=R3CKhi" />
-</details>
+
+</div>
